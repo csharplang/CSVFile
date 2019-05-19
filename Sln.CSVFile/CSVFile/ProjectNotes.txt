@@ -1,0 +1,6 @@
+﻿
+
+Install-Package CsvHelper
+
+https://joshclose.github.io/CsvHelper/getting-started#writing-a-csv-file
+
